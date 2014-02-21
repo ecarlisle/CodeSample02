@@ -1,0 +1,6 @@
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Debug\LogToCSV.exe.config
+E:\_JobInterviewProjects\DST\LogToCSV\obj\Debug\LogToCSV.csprojResolveAssemblyReference.cache
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Debug\LogToCSV.exe
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Debug\LogToCSV.pdb
+E:\_JobInterviewProjects\DST\LogToCSV\obj\Debug\LogToCSV.exe
+E:\_JobInterviewProjects\DST\LogToCSV\obj\Debug\LogToCSV.pdb

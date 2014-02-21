@@ -1,0 +1,11 @@
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Release\LogToCSV.exe.config
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Release\LogToCSV.exe
+E:\_JobInterviewProjects\DST\LogToCSV\bin\Release\LogToCSV.pdb
+E:\_JobInterviewProjects\DST\LogToCSV\obj\Release\LogToCSV.exe
+E:\_JobInterviewProjects\DST\LogToCSV\obj\Release\LogToCSV.pdb
+E:\_JobInterviewProjects\TBG\LogToCSV\bin\Release\LogToCSV.exe.config
+E:\_JobInterviewProjects\TBG\LogToCSV\obj\Release\LogToCSV.exe
+E:\_JobInterviewProjects\TBG\LogToCSV\obj\Release\LogToCSV.pdb
+E:\_JobInterviewProjects\TBG\LogToCSV\bin\Release\LogToCSV.exe
+E:\_JobInterviewProjects\TBG\LogToCSV\bin\Release\LogToCSV.pdb
+E:\_JobInterviewProjects\TBG\LogToCSV\obj\Release\LogToCSV.csprojResolveAssemblyReference.cache

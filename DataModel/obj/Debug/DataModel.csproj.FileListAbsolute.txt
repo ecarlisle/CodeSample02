@@ -1,0 +1,5 @@
+E:\_JobInterviewProjects\DST\LogToCSV\DataModel\bin\Debug\DataModel.dll
+E:\_JobInterviewProjects\DST\LogToCSV\DataModel\bin\Debug\DataModel.pdb
+E:\_JobInterviewProjects\DST\LogToCSV\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+E:\_JobInterviewProjects\DST\LogToCSV\DataModel\obj\Debug\DataModel.dll
+E:\_JobInterviewProjects\DST\LogToCSV\DataModel\obj\Debug\DataModel.pdb
